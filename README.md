@@ -50,16 +50,6 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-### Run Tests
-```sh
-python manage.py test
-```
-
-### Collect Static Files
-```sh
-python manage.py collectstatic
-```
-
 ### Open Django Shell
 ```sh
 python manage.py shell
